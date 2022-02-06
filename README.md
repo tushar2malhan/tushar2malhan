@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tushar malhan
+- ![MuaKissGIF](https://user-images.githubusercontent.com/66706496/152694623-d516a204-3952-4654-91bf-de2816b1b179.gif)
+ Hi, I’m @tushar malhan
 - 👀 I’m interested in Python AI ML AUTOMATION
 - ➕ I’m looking to collaborate with One who thinks that they can be Productive
 
