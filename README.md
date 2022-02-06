@@ -7,10 +7,7 @@
 
 - Disturb me if You have any active suggestions.
 - Feel free to pull request, would like to see your collabrations as well.
-- 
-- 
-6![CalculationMathGIF](https://user-images.githubusercontent.com/66706496/152695071-a66cb311-388d-4121-b7c9-0983e81c16e5.gif)
-706496/152694899-b80e8b73-5c47-4a41-a5fd-4208c408567e.gif)
+- ![CalculationMathGIF (2)](https://user-images.githubusercontent.com/66706496/152695085-ee1fc9aa-c39a-4216-b7e7-6ed2a2815b79.gif)
 
 
 <!---
