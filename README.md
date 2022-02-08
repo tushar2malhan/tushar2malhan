@@ -16,14 +16,13 @@
 
   <img align="right" alt="GIF" src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" width="500" height="320" />
 
-<br />
-<br/>
-### Languages and tools: 
+
+### Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://image.shutterstock.com/shutterstock/photos/1447057697/display_1500/stock-photo-hong-kong-july-amazon-web-services-aws-logo-is-seen-during-day-two-of-rise-at-the-1447057697.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://media.istockphoto.com/photos/circuit-blue-board-background-copy-space-computer-data-technology-picture-id1340728386?b=1&k=20&m=1340728386&s=170667a&w=0&h=FQ7GuNOoq7JzCwb4YWJZ3iyMxky5hAaVnFf7VcQ-dA0="></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 Day of Coding
