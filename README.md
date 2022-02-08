@@ -22,9 +22,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://image.shutterstock.com/shutterstock/photos/1447057697/display_1500/stock-photo-hong-kong-july-amazon-web-services-aws-logo-is-seen-during-day-two-of-rise-at-the-1447057697.jpg"></code>
-<code><img height="20" src="https://media.istockphoto.com/photos/circuit-blue-board-background-copy-space-computer-data-technology-picture-id1340728386?b=1&k=20&m=1340728386&s=170667a&w=0&h=FQ7GuNOoq7JzCwb4YWJZ3iyMxky5hAaVnFf7VcQ-dA0="></code>
+<code><img height="20" src="https://media.istockphoto.com/photos/planning-marketing-strategy-business-technology-internet-and-network-picture-id1306153770?b=1&k=20&m=1306153770&s=170667a&w=0&h=Y4e2KEGa9OZt3fCUVTZHHVzRah-MTD8IhIV8vDUktMA="></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+ <br> <br>
 📊 Day of Coding
 <!--START_SECTION:waka-->
 ```text
