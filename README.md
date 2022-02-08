@@ -1,6 +1,6 @@
 ![TonyStarkIronManGIF](https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif)
 
-![test image size]<img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/100.webp?cid=ecf05e47k10n4l28vrdbsk7ied30gst9m2t56as6myoxxcrd&rid=100.webp&ct=g" width="400" height="790">
+![test image size]<img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/100.webp?cid=ecf05e47k10n4l28vrdbsk7ied30gst9m2t56as6myoxxcrd&rid=100.webp&ct=g" width="200" height="400">
 
 -  Tushar malhan
 - I’m interested in Python AI ML AUTOMATION
