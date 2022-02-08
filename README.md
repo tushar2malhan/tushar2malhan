@@ -5,7 +5,9 @@
 - I’m looking to collaborate with One who thinks that they can be Productive 
 - Disturb me if You have any active suggestions.
 - Feel free to pull request, would like to see your collabrations as well.
-- ![CalculationMathGIF (2)](https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g)
+
+
+<img src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" width="300" height="200">
 
 
 <!---
