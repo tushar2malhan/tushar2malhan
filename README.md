@@ -11,6 +11,11 @@
 - Feel free to pull request, would like to see your collabrations as well.✨
 
 
+- 💼 Any freelance work? do reach, [email](mailto:tusharmalhan@gmail.com) :)
+- 💬 Ask me about anything,  Happy to help;
+
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" width="500" height="320" />
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -29,9 +34,3 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
   
-- 💼 Any freelance work? do reach, [email](mailto:tusharmalhan@gmail.com) :)
-- 💬 Ask me about anything,  Happy to help;
-
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" width="500" height="320" />
-  
-<img src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" alt="Paris" style="width:100%; height:20% ">
