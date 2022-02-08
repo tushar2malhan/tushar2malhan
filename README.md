@@ -1,7 +1,7 @@
 
 <h1 align="center" style="background-color:DodgerBlue;"> Tushar Malhan Here </h1>
 
-<img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:50%; display: block;  margin-left: auto;  margin-right: auto; ">
+<img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:80%; ">
 
 
 
