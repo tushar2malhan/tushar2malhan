@@ -16,7 +16,8 @@
 
   <img align="right" alt="GIF" src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" width="500" height="320" />
 
-
+ <br>
+ 
 ### Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
