@@ -1,6 +1,8 @@
+
+<h1 align="center" style="background-color:DodgerBlue;"> Tushar Malhan Here </h1>
+
 ![TonyStarkIronManGIF](https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif)
 
-<h1 align="center"> Tushar malhan Here </h1>
 - Interested in AI ML AUTOMATION
 - Looking to collaborate with One who thinks that they can be Productive 
 - Disturb me if You have any active suggestions.
