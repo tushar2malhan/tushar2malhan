@@ -28,8 +28,8 @@
 <code><img height="20" src="https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
- <br>
-📊 Day of Coding
+
+📊** Day of Coding **
 <!--START_SECTION:waka-->
 ```text
 Python       7 hrs 0 mins    █████████████████████▓░░░   87.18 % 
