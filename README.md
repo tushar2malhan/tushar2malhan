@@ -1,29 +1,8 @@
 
 <h1 align="center" style="background-color:DodgerBlue;"> Tushar Malhan Here </h1>
 
-![TonyStarkIronManGIF](https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif)
+<img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:50%; display: block;  margin-left: auto;  margin-right: auto; ">
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
-
-<h2>Center an Image</h2>
-<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
-
-<img src="img_paris.jpg" alt="Paris" style="width:50%;">
-
-</body>
-</html>
 
 
 
