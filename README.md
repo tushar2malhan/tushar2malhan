@@ -11,11 +11,4 @@
 - Feel free to pull request, would like to see your collabrations as well.✨
 
 
-<img src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" 
-  style="width:40%; height:5%>
-
-
-<!---
-tushar2malhan/tushar2malhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://media3.giphy.com/media/2Y8Iq3xe121Ba3hUAM/200w.webp?cid=ecf05e472h5vrtzkfxl4ei8s0x91e701wnxqvoja9xqz0ast&rid=200w.webp&ct=g" alt="Paris" style="width:100%; height:20% ">
