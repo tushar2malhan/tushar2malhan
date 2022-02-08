@@ -29,7 +29,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 
-📊** Day of Coding **
+📊 Day of Coding 
 <!--START_SECTION:waka-->
 ```text
 Python       7 hrs 0 mins    █████████████████████▓░░░   87.18 % 
