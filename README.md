@@ -1,8 +1,8 @@
 ![TonyStarkIronManGIF](https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif)
 
--  Tushar malhan
-- I’m interested in Python AI ML AUTOMATION
-- I’m looking to collaborate with One who thinks that they can be Productive 
+-  Tushar malhan Here
+- Interested in AI ML AUTOMATION
+- Looking to collaborate with One who thinks that they can be Productive 
 - Disturb me if You have any active suggestions.
 - Feel free to pull request, would like to see your collabrations as well.
 
