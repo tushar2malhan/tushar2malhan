@@ -34,7 +34,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 
 
-📊 Day of Coding 
+### 📊 Day of Coding 
 <!--START_SECTION:waka-->
 ```text
 Python       7 hrs 0 mins    █████████████████████▓░░░   87.18 % 
