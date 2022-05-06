@@ -37,10 +37,10 @@
 ### 📊 Day of Coding 
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs           █████████████████████ ◽◽  55.18 % 
-AWS          3 hour          ███████████ ◽◽◽◽◽◽  25.19 % 
-SQL          2 hour          ██████ ◽◽◽◽◽◽◽◽  18.01 % 
-JSON         15 min          █ ◽◽◽◽◽◽◽◽◽◽  04.53 % 
+Python       7 hrs           █████████████████████🔳🔳🔳  55.18 % 
+AWS          3 hour          ███████████🔳🔳🔳🔳🔳🔳🔳  25.19 % 
+SQL          2 hour          █████ 🔳🔳🔳🔳🔳🔳🔳🔳🔳  18.01 % 
+JSON         15 min          █🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳  04.53 % 
 ```
 <!--END_SECTION:waka-->
   
