@@ -6,7 +6,7 @@
 
 </h3>
 
-<img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:100%; height:20% ">
+<img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:90%; height:20% ">
 
 
 ### Prerequisites:
