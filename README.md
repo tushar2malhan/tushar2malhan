@@ -1,7 +1,7 @@
 
 ###
 <div style="width:95%; height:20% ">
-                                    ▌║█║▌│║▌│║▌║▌█║ ▌║█║▌│║▌│║▌║▌█║         Tushar Malhan Here          ▌│║▌║▌│║║▌█║▌║█ ▌║█║▌│║▌│║▌║▌█║▌║█║▌│║██
+                                    ▌║█║▌│║▌│║▌║▌█║ ▌║█║▌│║▌│║▌║▌█║         Tushar Malhan Here          ▌│║▌║▌│║║▌█║▌║█ ▌║█║▌│║▌│║▌║▌█║▌║█║▌│║█
 </div>
 </br></br>
 <img src="https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif" alt="Paris" style="width:95%; height:20% ">
