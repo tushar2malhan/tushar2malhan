@@ -43,10 +43,7 @@
 ### Prerequisites:
 - Interested in AI ML AUTOMATION 🚀
 - Looking to collaborate with One who thinks that they can be Productive 👨🏽‍💻
-- Disturb me if You have any active suggestions.👻
 - Feel free to pull request, would like to see your collabrations as well.✨
-
-
 - 💼 Any freelance work? do reach, [email](mailto:tusharmalhan@gmail.com) :)
 - 💬 Ask me about anything,  Happy to help;
 
