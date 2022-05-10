@@ -1,7 +1,6 @@
 
-### <p align="center" size="20px" > 
+### <p align="center" size="200px" > 
   🅣🅤🅢🅗🅐🅡 🅜🅐🅛🅗🅐🅝 
-  【T】【u】【s】【h】【a】【r】   【M】【a】【l】【h】【a】【n】
 
 </p>
 
