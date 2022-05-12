@@ -1,4 +1,5 @@
-#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Hi!  𝐓𝐮𝐬𝐡𝐚𝐫 𝐌𝐚𝐥𝐡𝐚𝐧 𝐇𝐞𝐫𝐞 !`        
+<p style="text-align:center;">Learn for free</p>
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Hi!  𝐓𝐮𝐬𝐡𝐚𝐫 𝐌𝐚𝐥𝐡𝐚𝐧 𝐇𝐞𝐫𝐞 !`        
                                                              👑 
                                                           ▄▄▄▄▄▄▄▄▄
                                                           ▌▐░▀░▀░▀▐
