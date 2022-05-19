@@ -51,7 +51,7 @@
 
 
 <img src="https://i.giphy.com/media/WTjXuYA2y4o3UZly3W/200.webp" alt="Paris" style="width:30%; height:2% ">
- <br>  <br>
+<!--  <br>  <br> -->
  
 ### Languages and Tools: 
 
