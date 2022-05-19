@@ -38,7 +38,7 @@
  -->
                                                                                                                                                            
 </br></br>
-<img src="[https://user-images.githubusercontent.com/66706496/152694990-d4c745c8-6e7e-4d2b-9ca2-558d751f09d2.gif](https://media2.giphy.com/media/PI3QGKFN6XZUCMMqJm/200.webp?cid=ecf05e473xdo24ca3dhxlyxkurushjcnrp24xgulij2nmvhi&rid=200.webp&ct=g)" alt="Paris" style="width:95%; height:20% ">
+
 
 
 ### Prerequisites:
@@ -49,7 +49,6 @@
 - 💬 Ask me about anything,  Happy to help;
 
 
-<img src="https://giphy.com/embed/4OAxDXv4RdUeg38JYi" alt="Paris" style="width:95%; height:20% ">
 
  <br>  <br>
  
