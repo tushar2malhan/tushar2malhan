@@ -49,6 +49,8 @@
 - 💬 Ask me about anything,  Happy to help;
 
 
+<img src="https://giphy.com/embed/4OAxDXv4RdUeg38JYi" alt="Paris" style="width:95%; height:20% ">
+
  <br>  <br>
  
 ### Languages and Tools: 
